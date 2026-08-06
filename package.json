@@ -20,7 +20,8 @@
   "homepage": "https://github.com/bupark82/test-app#readme",
   "dependencies": {
     "@types/node": "^26.1.2",
+    "ci": "^2.3.0",
     "ts-node": "^10.9.2",
-    "typescript": "^7.0.2"
+    "typescript": "^5.9.3"
   }
 }
